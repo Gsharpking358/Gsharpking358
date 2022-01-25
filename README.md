@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ganesh 
 - 👀 I’m interested in Data Analytics and Machine Learning using Python Language
-- 🌱 I’m currently learning concepts to build a career in Data Science and Actively looking for a job...
+- 🌱 I’m currently learning concepts to build a career in Data Science and Actively looking for a job in this field...
 
 <!---
 Gsharpking358/Gsharpking358 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
